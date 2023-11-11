@@ -14,4 +14,6 @@ var sum = first + second;
 
 - [x] java programming
 - [x] C programming
-- [ ] Introduce myself to the world
+- [x] Introduce myself to the world
+- [x] Html
+- [x] CSS
